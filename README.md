@@ -49,19 +49,6 @@ grabzy-ecommerce-website/
 
 ---
 
-## 💻 How to Run Locally
-
-# 1. Clone this repository
-git clone https://github.com/mukulnegi2004/grabzy-ecommerce-website.git
-
-# 2. Navigate into the project folder
-cd grabzy-ecommerce-website
-
-# 3. Open index.html in your browser
-Or, use Live Server in VS Code for best development experience.
-
----
-
 📱 Responsiveness
 This site is fully responsive and optimized for:
 
@@ -72,3 +59,24 @@ This site is fully responsive and optimized for:
 ✅ Mobile phones (< 768px)
 
 Media queries adjust layout, fonts, navigation, and banners accordingly.
+
+---
+
+## 🛠️ How to Run Locally
+
+1. Clone or download the repository
+2. Make sure all files (HTML, CSS, JS, and images) are in the same structure
+3. Open `index.html` in your browser
+4. Start adding your tasks!
+
+---
+
+## 📬 Connect with Me
+
+- 💼 [GitHub](https://github.com/mukulnegi2004)
+- 💬 [LinkedIn](https://linkedin.com/in/your-link)
+- 📫 Email: mannunegi126@gmail.com
+
+---
+
+⭐ If you like this project, feel free to star it and give feedback!
