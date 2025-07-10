@@ -1,4 +1,3 @@
-# Grabzy-E-Commerce-Website
 # Grabzy 🛍️ — E-Commerce Website
 
 Grabzy is a clean, fully responsive **e-commerce website** built using **HTML, CSS, and JavaScript**. The project replicates a modern online shopping experience, complete with product listings, filters, banners, cart UI, and detail pages.
