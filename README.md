@@ -62,6 +62,11 @@ Media queries adjust layout, fonts, navigation, and banners accordingly.
 
 ---
 
+## 🌐 Live Demo
+[Click here to view the live project](https://mukulnegi2004.github.io/Grabzy-E-Commerce-Website/)
+
+---
+
 ## 🛠️ How to Run Locally
 
 1. Clone or download the repository
