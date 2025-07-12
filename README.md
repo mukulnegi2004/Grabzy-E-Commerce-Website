@@ -62,7 +62,8 @@ Media queries adjust layout, fonts, navigation, and banners accordingly.
 
 ---
 
-## 🌐 Live Demo
+## 🚀 Live Demo
+
 [Click here to view the live project](https://mukulnegi2004.github.io/Grabzy-E-Commerce-Website/)
 
 ---
@@ -79,7 +80,7 @@ Media queries adjust layout, fonts, navigation, and banners accordingly.
 ## 📬 Connect with Me
 
 - 💼 [GitHub](https://github.com/mukulnegi2004)
-- 💬 [LinkedIn](https://linkedin.com/in/your-link)
+- 💬 [LinkedIn](https://www.linkedin.com/in/mukul-negi-75b741374/)
 - 📫 Email: mannunegi126@gmail.com
 
 ---
