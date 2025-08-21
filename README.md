@@ -20,7 +20,7 @@ Grabzy is a clean, fully responsive **e-commerce website** built using **HTML, C
 ---
 
 ## 🧩 Folder Structure
-
+```
 grabzy-ecommerce-website/
 │
 ├── images/ # All assets: products, icons, banners, logo, etc.
@@ -34,7 +34,7 @@ grabzy-ecommerce-website/
 ├── style.css # Main styling file (fully responsive)
 ├── script.js # JavaScript (mobile menu functionality)
 └── README.md # This file
-
+```
 ---
 
 ## ⚙️ Technologies Used
@@ -79,7 +79,7 @@ Media queries adjust layout, fonts, navigation, and banners accordingly.
 ## 📬 Connect with Me
 
 - 💼 [GitHub](https://github.com/mukulnegi2004)
-- 💬 [LinkedIn](https://www.linkedin.com/in/mukul-negi-75b741374/)
+- 💬 [LinkedIn](https://www.linkedin.com/in/mukul-negi-431039378/)
 - 📫 Email: mannunegi126@gmail.com
 
 ---
